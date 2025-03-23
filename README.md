@@ -53,20 +53,21 @@ Clampify is the **first truly rugproof launchpad** that puts **community and tra
 
 ## 🎯 Bounties We're Targeting
 
+### 🛠️ T1 – Best Use of `𝚝𝟷` ($2,500)
+- We use T1 Protocol to enforce secure meme token launches by handling permissionless token creation and smart constraints for supply locking, anti-rug rules, and unlock schedules. It powers the core logic behind Clampify's rugproof protocol.
+
 ### 🗄️ 0G – Storage ($1,200)
-- Store launch metadata, token lock configurations, audit logs
-- Build **off-chain verifiable** transparency layer for token history
+- Stored launch metadata, token lock configurations, audit logs
+- Built **off-chain verifiable** transparency layer for token history
 
 ### 🏆 Privy – Agentic Consumer ($1,000)
-- Integrate Privy for **seamless identity abstraction**
-- Protect user data while allowing **secure token interaction**
+- Integrated Privy for **seamless identity abstraction**
+- Protected user data while allowing **secure token interaction**
 
-### 🛠️ T1 – Best Use of `𝚝𝟷` ($2,500)
-- Use T1 primitives to power **smart lock triggers**, unlock schedules, and dynamic protocol upgrades
 
 ### 🙈 Nillion – Best Use of SecretLLM ($2,500)
-- Private AI-based scoring for **rug risk, token volatility, and project trustworthiness**
-- Use Nillion to detect red flags while keeping logic confidential
+- Privated AI-based scoring for **rug risk, token volatility, and project trustworthiness**
+- Used Nillion to detect red flags while keeping logic confidential
 
 ---
 
